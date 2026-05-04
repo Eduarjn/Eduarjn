@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Eduarjose 👋</h1>
 <h3 align="center">Backend Developer · Data Analyst · Sales Engineer</h3>
-
 <p align="center">
   IT professional with 4+ years in VoIP, cloud platforms, REST APIs and data-driven operations.
   Trilingual (ES/PT/EN) · Based in Brazil · Open to remote opportunities in the USA & Canada
@@ -25,12 +24,13 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [ERA Learn](https://github.com/Eduarjn/eralearn) | Internal training platform with quiz engine & auto-certificates | TypeScript, React, Supabase |
-| [Inventa Smart Stock](https://github.com/Eduarjn/inventa-smart-stock) | Inventory system with RBAC & audit logging | Node.js, PostgreSQL |
-| [Insight Engine](https://github.com/Eduarjn/insight-engine) | Data insight automation engine | Node.js, SQL |
-| [FRIDAYDB-ERA](https://github.com/Eduarjn/FRIDAYDB-ERA) | Database layer for ERA platform | PostgreSQL |
+| Project | Description | Stack | Live | Code |
+|---|---|---|---|---|
+| ERA Learn | Full-stack training platform with quiz engine & automated certificates. Reduced onboarding time by 40% | TypeScript · React · Node.js · Supabase | [🔗 Live](https://eralearn.sobreip.com.br) | [📁 GitHub](https://github.com/Eduarjn/eralearn) |
+| Pana Learn | Learning management platform with structured courses and progress tracking | Node.js · React · PostgreSQL · REST API | [🔗 Live](https://panalearn.com) | [📁 GitHub](https://github.com/Eduarjn/pana-learn) |
+| Inventa Smart Stock | Scalable inventory system with RBAC & audit logging | Node.js · PostgreSQL · REST API | — | [📁 GitHub](https://github.com/Eduarjn/inventa-smart-stock) |
+| Insight Engine | Data insight and automation engine for KPI monitoring | Node.js · SQL · Automation | — | [📁 GitHub](https://github.com/Eduarjn/insight-engine) |
+| FRIDAYDB-ERA | Database layer for ERA VoIP platform | PostgreSQL · Node.js | — | [📁 GitHub](https://github.com/Eduarjn/FRIDAYDB-ERA) |
 
 ---
 
