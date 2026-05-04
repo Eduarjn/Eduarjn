@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Eduarjose 👋</h1>
+<h3 align="center">Backend Developer · Data Analyst · Sales Engineer</h3>
 
-<!--
-**Eduarjn/Eduarjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  IT professional with 4+ years in VoIP, cloud platforms, REST APIs and data-driven operations.
+  Trilingual (ES/PT/EN) · Based in Brazil · Open to remote opportunities in the USA & Canada
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![FreeSWITCH](https://img.shields.io/badge/FreeSWITCH-VoIP-orange?style=flat)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=flat)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [ERA Learn](https://github.com/Eduarjn/eralearn) | Internal training platform with quiz engine & auto-certificates | TypeScript, React, Supabase |
+| [Inventa Smart Stock](https://github.com/Eduarjn/inventa-smart-stock) | Inventory system with RBAC & audit logging | Node.js, PostgreSQL |
+| [Insight Engine](https://github.com/Eduarjn/insight-engine) | Data insight automation engine | Node.js, SQL |
+| [FRIDAYDB-ERA](https://github.com/Eduarjn/FRIDAYDB-ERA) | Database layer for ERA platform | PostgreSQL |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduarjn&show_icons=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduarjn&layout=compact&theme=dark&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduarjose-fajardo-ba3254238)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eduarjose.fajardo96@gmail.com)
